@@ -1,5 +1,6 @@
-import adapter from '@sveltejs/adapter-auto';
-
+// import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-vercel';
+// add vercel support for tailwindcss
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
