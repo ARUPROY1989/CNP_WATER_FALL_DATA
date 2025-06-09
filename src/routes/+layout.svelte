@@ -1,5 +1,8 @@
 
-
+<script>
+// import css
+import '../output.css';
+</script>
 <div class="min-h-screen flex flex-col w-screen">
   <!-- Navbar -->
   <nav class="bg-blue-900 text-white p-4">
